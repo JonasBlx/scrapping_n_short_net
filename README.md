@@ -40,3 +40,7 @@ Pour la documentation du projet, y compris la méthodologie de scraping, les des
 Pour lister toutes les dépendances nécessaires à l'exécution du projet, facilitant la reproduction de l'environnement de développement.
 #### 8. .gitignore
 Pour exclure les fichiers sensibles ou volumineux (comme les données brutes scrapées) du contrôle de version.
+
+# How to resolve git merging conflicts in jupyter notebooks ?
+
+https://www.linkedin.com/pulse/resolve-conflict-jupyter-notebook-dhiraj-patra/
