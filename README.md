@@ -42,7 +42,7 @@ figures/ : For generated visualizations, like graphs or maps saved in image form
 #### 6. docs/
 For project documentation, including scraping methodology, data descriptions, and analysis conclusions.
 
-####7. requirements.txt
+#### 7. requirements.txt
 To list all the dependencies necessary for running the project, facilitating the replication of the development environment.
 
 #### 8. .gitignore
