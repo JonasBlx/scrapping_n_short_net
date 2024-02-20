@@ -1,0 +1,12 @@
+pandas
+yfinance
+matplotlib
+scikit-learn
+plotly
+numpy
+pdfplumber
+selenium
+requests
+bs4
+nbformat>=4.2.0
+Pyarrow
